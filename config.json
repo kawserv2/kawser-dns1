@@ -16,7 +16,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/NoorVip"
+          "path": "/kawser"
         }
       }
     }
@@ -27,7 +27,7 @@
       "settings": {
         "servers": [
           {
-            "address": "ip2.teamsupreme.xyz", 
+            "address": "elis.bcsvpn.xyz", 
             "port": 9720
           }
         ]
